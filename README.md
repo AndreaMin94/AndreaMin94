@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working as software developer at **Apuliasoft srl**
 
-- 🌱 I’m currently learning **Algorithms & Data Structures and <a href="https://nodejs.org" target="_blank" rel="noreferrer"> Node JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> with <a href="https://expressjs.com" target="_blank" rel="noreferrer"> Express <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> Framework**
-
-- 💬 Ask me about **<a href="https://laravel.com/" target="_blank" rel="noreferrer"> Laravel <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>,  Livewire and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> **
-
 - 📫 How to reach me **mininniandrea@gmail.com**
 
 - ⚡ Fun fact **One day I didn't know what programming was, the next day I started coding**
