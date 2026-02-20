@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A web developer and backend development teacher from beautiful Italy</h3>
+<h3 align="center">A software developer from beautiful Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreamin94&label=Profile%20views&color=0e75b6&style=flat" alt="andreamin94" /> </p>
 
-- 🔭 I’m currently working as software developer and teacher on **aulab srl**
+- 🔭 I’m currently working as software developer at **Apuliasoft srl**
 
 - 🌱 I’m currently learning **Algorithms & Data Structures and <a href="https://nodejs.org" target="_blank" rel="noreferrer"> Node JS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> with <a href="https://expressjs.com" target="_blank" rel="noreferrer"> Express <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> Framework**
 
